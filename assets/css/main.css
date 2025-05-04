@@ -802,7 +802,7 @@ h6 {
 }
 
 .scroll-top i {
-  font-size: 24px;
+  font-size: 24px; 
   color: var(--contrast-color);
   line-height: 0;
 }
